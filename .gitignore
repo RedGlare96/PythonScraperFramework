@@ -1,0 +1,8 @@
+venv/
+logs/
+dump/
+build/
+chrome-bin/
+chrome-data/
+screenshots/
+.idea/
