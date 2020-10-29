@@ -1,4 +1,4 @@
-from product_websites.lowes_base import Lowes
+from scraper_base.lowes_base import Lowes
 import os
 from os import path
 from datetime import datetime

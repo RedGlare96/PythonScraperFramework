@@ -1,5 +1,5 @@
-from product_websites.lowes_base import Lowes
-from product_websites.menards_base import Menards
+from scraper_base.lowes_base import Lowes
+from scraper_base.menards_base import Menards
 import os
 from os import path
 from datetime import datetime
